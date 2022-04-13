@@ -14,3 +14,10 @@ os.system("clear")
 
 print("█▄▄ █▀█ ▀█▀ █▄░█ █▀▀ ▀█▀")
 print("█▄█ █▄█ ░█░ █░▀█ ██▄ ░█░")
+
+
+
+
+
+
+os.system("clear")
